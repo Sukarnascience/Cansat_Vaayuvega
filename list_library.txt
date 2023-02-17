@@ -3,3 +3,6 @@ customtkinter
 DateTime
 tkintermapview
 pywebview
+urllib3
+pandas
+matplotlib
